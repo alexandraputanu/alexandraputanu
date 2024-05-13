@@ -1,6 +1,14 @@
 ### Hi, I am Alexandra 👋
 
-🌱 I studied Computer Science
+- 🔭 I’m currently interested on Front End Development & QA Engineering
+- 👩🏻‍🎓 I studied Economic Informatics at the Faculty of Cybernetics, Statistics and Economic Informatics
+- 👩🏻‍🎓 I studied Economic Cybernetics at the Faculty of Business Administration within the University of Bucharest 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: ...
+
+- bachelor's degree
+
+-
 <!--
 **alexandraputanu/alexandraputanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
