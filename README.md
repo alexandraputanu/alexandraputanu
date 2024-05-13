@@ -1,8 +1,9 @@
-### Hi, I am Alexandra 👋
+### 👋 Hi, I am Alexandra 
 
-- 🔭 I’m interested on Front End Development, Software Testing Engineering, QA Automation, Python Programmming & QA Manual.
-- 👩🏻‍🎓 I studied Economic Informatics at the Faculty of Cybernetics, Statistics and Economic Informatics within the The Bucharest University of Economic Studies (Bachelor's degree) & Economic Cybernetics at the Faculty of Business Administration within the University of Bucharest (Bachelor's degree)
-- 👩🏻‍🎓 I completed a Master's degree in Engineering at the POLITEHNICA University of Bucharest (Master's degree)
+- 🔭 I’m interested in Front End Development, Software Testing Engineering, QA Automation, Python Programmming & QA Manual.
+- 👩🏻‍🎓 I studied Economic Informatics at the Faculty of Cybernetics, Statistics and Economic Informatics (Bucharest University of Economic Studies) & Economic Cybernetics at the Faculty of Business Administration (University of Bucharest)
+- 👩🏻‍🎓 I graduated a Master's degree in Engineering at the POLITEHNICA University of Bucharest
+- 👩🏻‍🎓 I completed training courses and professional development in the fields of: FullSatck Development, Python Programming, QA Engineering, UX/UI Desing.
 
 <!--
 **alexandraputanu/alexandraputanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
