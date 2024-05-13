@@ -2,7 +2,7 @@
 
 - 🔭 I’m interested on Front End Development, Software Testing Engineering, QA Automation, Python Programmming & QA Manual.
 - 👩🏻‍🎓 I studied Economic Informatics at the Faculty of Cybernetics, Statistics and Economic Informatics within the The Bucharest University of Economic Studies (Bachelor's degree) & Economic Cybernetics at the Faculty of Business Administration within the University of Bucharest (Bachelor's degree)
-- 👩🏻‍🎓 I completed a Master's degree in Engineering at the Polytechnic University of Bucharest (Master's degree)
+- 👩🏻‍🎓 I completed a Master's degree in Engineering at the POLITEHNICA University of Bucharest (Master's degree)
 - 😄 Pronouns: she/her
 
 -
