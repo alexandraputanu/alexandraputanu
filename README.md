@@ -1,7 +1,7 @@
 ### Hi, I am Alexandra 👋
 
 - 🔭 I’m interested on Front End Development, Software Testing Engineering, QA Automation, Python Programmming & QA Manual.
-- 👩🏻‍🎓 I studied Economic Informatics at the Faculty of Cybernetics, Statistics and Economic Informatics & Economic Cybernetics at the Faculty of Business Administration within the University of Bucharest (  Bachelor's degree)
+- 👩🏻‍🎓 I studied Economic Informatics at the Faculty of Cybernetics, Statistics and Economic Informatics within the The Bucharest University of Economic Studies (Bachelor's degree) & Economic Cybernetics at the Faculty of Business Administration within the University of Bucharest (Bachelor's degree)
 - I completed the courses
 - 😄 Pronouns: she/her
 
