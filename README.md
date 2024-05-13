@@ -4,6 +4,7 @@
 - 👩🏻‍🎓 I studied Economic Informatics at the Faculty of Cybernetics, Statistics and Economic Informatics (Bucharest University of Economic Studies) & Economic Cybernetics at the Faculty of Business Administration (University of Bucharest)
 - 👩🏻‍🎓 I graduated a Master's degree in Engineering at the POLITEHNICA University of Bucharest
 - 👩🏻‍🎓 I completed training courses and professional development in the fields of: FullSatck Development, Python Programming, QA Engineering, UX/UI Desing.
+- 📫 I used technologies like: HTML5, CSS3, JavaScript, React, Node.js, GIT &GitHub, Selenium WebDriver
 
 <!--
 **alexandraputanu/alexandraputanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
