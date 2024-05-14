@@ -5,6 +5,7 @@
 - 👯 I graduated a Master's degree in Engineering at the POLITEHNICA University of Bucharest
 - 👩 I completed training courses and professional development in the fields of: FullSatck Development, Python Programming, QA Engineering, UX/UI Desing, Project Management, Certified Trainer.
 - 📫 I used technologies like: HTML5, CSS3, Visual Studio Code, JavaScript, React, Node.js, GIT &GitHub, Selenium WebDriver, Figma, Miro.
+- 🤔 I’m looking forward to collaborate on different Software Testing opportunities.
 
 <!--
 **alexandraputanu/alexandraputanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
