@@ -2,7 +2,7 @@
 
 - 🔭 I’m interested in Front End Development, Software Testing Engineering, QA Automation, Python Programmming & QA Manual.
 - 👩🏻‍🎓 I studied Economic Informatics at the Faculty of Cybernetics, Statistics and Economic Informatics (Bucharest University of Economic Studies) & Economic Cybernetics at the Faculty of Business Administration (University of Bucharest)
-- 👯 I hold 4 Master’s degree: in Engineering from Politehnica University of Bucharest, in Databases & Web Technologies from the Faculty of Mathematics and Informatics at the University of Bucharest, in AI Law & in Social Media & Online Marketing.
+- 👯 I hold 4 Master’s degree: in Engineering (Politehnica University of Bucharest)in Databases & Web Technologies (the Faculty of Mathematics and Informatics at the University of Bucharest) in AI Law & in Social Media & Online Marketing.
 - 👩 I completed training courses and professional development in the fields of: FullSatck Development, AI & Python Programming, QA Engineering, UX/UI Desing, Project Management (Agile, Scrum Master), Certified Trainer.
 - 📫 I used technologies like: HTML5, CSS3, Visual Studio Code, JavaScript, React, Node.js, GIT &GitHub, Selenium WebDriver, Figma, Miro.
 - 🤔 I’m looking forward to collaborate on different Software Testing, FullSatck Development, AI & Python Programming opportunities.
